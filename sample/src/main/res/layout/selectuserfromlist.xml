@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    >
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="20dp"
+        android:text="rups"
+        android:id="@+id/userslidenamelisttext"
+        android:textColor="#dd1919" />
+
+    <TextView
+        android:layout_width="30dp"
+        android:layout_height="20dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/durationlisttext"
+        android:text="0"
+        android:textColor="#dd1919" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="23dp"
+        android:id="@+id/listimageView1"
+        android:contentDescription="image1inlist"
+        android:src="@mipmap/ic_launcher" />
+
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="23dp"
+        android:id="@+id/listimageView2"
+        android:contentDescription="image2inlist"
+
+        android:src="@mipmap/ic_launcher"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="20dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="musicName"
+        android:id="@+id/musiclistText"
+        android:textColor="#dd1919" />
+
+    <TextView
+        android:layout_width="76dp"
+        android:layout_height="20dp"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/floatingTextlisttext"
+
+        android:text="write about selct image for slide show"
+        android:textColor="#dd1919" />
+
+</LinearLayout>

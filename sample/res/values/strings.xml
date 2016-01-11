@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Easy Photo Picker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_EasyImage">EasyImageActivity</string>
+    <string name="imageonfly">image on fly</string>
+    <string name="firstimagebutton">Image#1</string>
+    <string name="secondimagebutton">Image#2</string>
+    <string name="savebutton">Save</string>
+    <string name="slideshowbutton">SlideShow</string>
+    <string name="title_activity_view_flipper">ViewFlipperActivity</string>
+</resources>

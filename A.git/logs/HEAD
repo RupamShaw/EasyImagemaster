@@ -1,0 +1,35 @@
+0000000000000000000000000000000000000000 5b6061416808344060b4f450d661b19039e7b26f Dell <rupam.shaw@gmail.com> 1451114700 +1100	commit (initial): Initial commit
+5b6061416808344060b4f450d661b19039e7b26f e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed Dell <rupam.shaw@gmail.com> 1451164568 +1100	commit: all is running first delivery
+e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed Dell <rupam.shaw@gmail.com> 1451164697 +1100	checkout: moving from master to e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed
+e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed Dell <rupam.shaw@gmail.com> 1451165311 +1100	checkout: moving from e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed to comp
+e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed ee61d6403b6462a7a49e6ccd8737ebe55521ff17 Dell <rupam.shaw@gmail.com> 1451165977 +1100	commit: all is running first delivery for selctuserfromlist
+ee61d6403b6462a7a49e6ccd8737ebe55521ff17 ed719a91ce2e167d91c5b01fa442dde945a5e272 Dell <rupam.shaw@gmail.com> 1452065559 +1100	commit: all is running first delivery2
+ed719a91ce2e167d91c5b01fa442dde945a5e272 a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452505666 +1100	commit: all is running first delivery2
+a86ee1537abcb637480dc19da491608d9a0fd4af ed719a91ce2e167d91c5b01fa442dde945a5e272 Dell <rupam.shaw@gmail.com> 1452506214 +1100	checkout: moving from comp to ed719a91ce2e167d91c5b01fa442dde945a5e272
+ed719a91ce2e167d91c5b01fa442dde945a5e272 a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452506237 +1100	checkout: moving from ed719a91ce2e167d91c5b01fa442dde945a5e272 to a86ee1537abcb637480dc19da491608d9a0fd4af
+a86ee1537abcb637480dc19da491608d9a0fd4af ed719a91ce2e167d91c5b01fa442dde945a5e272 Dell <rupam.shaw@gmail.com> 1452506293 +1100	checkout: moving from a86ee1537abcb637480dc19da491608d9a0fd4af to ed719a91ce2e167d91c5b01fa442dde945a5e272
+ed719a91ce2e167d91c5b01fa442dde945a5e272 a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452506304 +1100	checkout: moving from ed719a91ce2e167d91c5b01fa442dde945a5e272 to a86ee1537abcb637480dc19da491608d9a0fd4af
+a86ee1537abcb637480dc19da491608d9a0fd4af 019c56e8a27b5d3df795b0f26ae8a7d29d8a722d Dell <rupam.shaw@gmail.com> 1452521056 +1100	commit: all is running second delivery
+019c56e8a27b5d3df795b0f26ae8a7d29d8a722d ed719a91ce2e167d91c5b01fa442dde945a5e272 Dell <rupam.shaw@gmail.com> 1452521986 +1100	checkout: moving from 019c56e8a27b5d3df795b0f26ae8a7d29d8a722d to ed719a91ce2e167d91c5b01fa442dde945a5e272
+ed719a91ce2e167d91c5b01fa442dde945a5e272 ed719a91ce2e167d91c5b01fa442dde945a5e272 Dell <rupam.shaw@gmail.com> 1452522090 +1100	checkout: moving from ed719a91ce2e167d91c5b01fa442dde945a5e272 to musicandDBhandler
+ed719a91ce2e167d91c5b01fa442dde945a5e272 a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452522269 +1100	merge comp: Fast-forward
+a86ee1537abcb637480dc19da491608d9a0fd4af ed719a91ce2e167d91c5b01fa442dde945a5e272 Dell <rupam.shaw@gmail.com> 1452522614 +1100	checkout: moving from musicandDBhandler to ed719a91ce2e167d91c5b01fa442dde945a5e272
+ed719a91ce2e167d91c5b01fa442dde945a5e272 a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452522790 +1100	merge comp: Fast-forward
+a86ee1537abcb637480dc19da491608d9a0fd4af ed719a91ce2e167d91c5b01fa442dde945a5e272 Dell <rupam.shaw@gmail.com> 1452522820 +1100	checkout: moving from a86ee1537abcb637480dc19da491608d9a0fd4af to ed719a91ce2e167d91c5b01fa442dde945a5e272
+ed719a91ce2e167d91c5b01fa442dde945a5e272 a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452522959 +1100	checkout: moving from ed719a91ce2e167d91c5b01fa442dde945a5e272 to a86ee1537abcb637480dc19da491608d9a0fd4af
+a86ee1537abcb637480dc19da491608d9a0fd4af e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed Dell <rupam.shaw@gmail.com> 1452524389 +1100	checkout: moving from a86ee1537abcb637480dc19da491608d9a0fd4af to e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed
+e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed 5b6061416808344060b4f450d661b19039e7b26f Dell <rupam.shaw@gmail.com> 1452524450 +1100	checkout: moving from e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed to 5b6061416808344060b4f450d661b19039e7b26f
+5b6061416808344060b4f450d661b19039e7b26f a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452524495 +1100	merge comp: Fast-forward
+a86ee1537abcb637480dc19da491608d9a0fd4af 5b6061416808344060b4f450d661b19039e7b26f Dell <rupam.shaw@gmail.com> 1452524641 +1100	checkout: moving from a86ee1537abcb637480dc19da491608d9a0fd4af to 5b6061416808344060b4f450d661b19039e7b26f
+5b6061416808344060b4f450d661b19039e7b26f e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed Dell <rupam.shaw@gmail.com> 1452524762 +1100	checkout: moving from 5b6061416808344060b4f450d661b19039e7b26f to e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed
+e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed 5b6061416808344060b4f450d661b19039e7b26f Dell <rupam.shaw@gmail.com> 1452524804 +1100	checkout: moving from e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed to 5b6061416808344060b4f450d661b19039e7b26f
+5b6061416808344060b4f450d661b19039e7b26f a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452525350 +1100	merge musicandDBhandler: Fast-forward (no commit created; -m option ignored)
+a86ee1537abcb637480dc19da491608d9a0fd4af ff966a078a2e39f389418679ed797bc0bbbdf56e Dell <rupam.shaw@gmail.com> 1452525438 +1100	commit: all is running in master delivery
+ff966a078a2e39f389418679ed797bc0bbbdf56e 5b6061416808344060b4f450d661b19039e7b26f Dell <rupam.shaw@gmail.com> 1452526706 +1100	checkout: moving from ff966a078a2e39f389418679ed797bc0bbbdf56e to 5b6061416808344060b4f450d661b19039e7b26f
+5b6061416808344060b4f450d661b19039e7b26f a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452526761 +1100	merge comp: Fast-forward (no commit created; -m option ignored)
+a86ee1537abcb637480dc19da491608d9a0fd4af 7933a7820d54b4ef47b57fadb9fb99cd72264c1c Dell <rupam.shaw@gmail.com> 1452526856 +1100	commit: MyDBHandler added
+7933a7820d54b4ef47b57fadb9fb99cd72264c1c 5b6061416808344060b4f450d661b19039e7b26f Dell <rupam.shaw@gmail.com> 1452528042 +1100	checkout: moving from 7933a7820d54b4ef47b57fadb9fb99cd72264c1c to 5b6061416808344060b4f450d661b19039e7b26f
+5b6061416808344060b4f450d661b19039e7b26f e35968e877dce9cdc5a20b97812f394ba89daaa4 Dell <rupam.shaw@gmail.com> 1452528160 +1100	commit: MyDBHandler added
+e35968e877dce9cdc5a20b97812f394ba89daaa4 e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed Dell <rupam.shaw@gmail.com> 1452528520 +1100	checkout: moving from e35968e877dce9cdc5a20b97812f394ba89daaa4 to e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed
+e3f2f0837de3d814d96b90c37a0cd7e5e4faa9ed a86ee1537abcb637480dc19da491608d9a0fd4af Dell <rupam.shaw@gmail.com> 1452528558 +1100	merge comp: Fast-forward
+a86ee1537abcb637480dc19da491608d9a0fd4af e6a5c00eea7adb7b3ee8c24eee3bd13d6dbc608d Dell <rupam.shaw@gmail.com> 1452528630 +1100	commit: MyDBHandler added
