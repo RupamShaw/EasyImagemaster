@@ -1,7 +1,7 @@
 # What is it?
 EasyImage allow you to eaisly take picture from gallery, camera or documents without creating lots of boilerplate.
   
-#How  to   us e it ?
+#How  to    us e it ?
 ##Essentials
 
 ####Taking straight to camera
