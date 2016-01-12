@@ -1,5 +1,7 @@
 SetupMain
+
 Slideshow
+
 Images
 # What is it?
 EasyImage allow you to eaisly take picture from gallery, camera or documents without creating lots of boilerplate.
