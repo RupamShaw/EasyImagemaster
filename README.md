@@ -1,3 +1,4 @@
+
 SetupMain
 
 Slideshow
@@ -7,6 +8,13 @@ Images
 EasyImage allow you to eaisly take picture from gallery, camera or documents without creating lots of boilerplate.
   
 #How  to    us e it ?
+=======
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-EasyImage-green.svg?style=true)](https://android-arsenal.com/details/1/2725)
+# What is it?
+EasyImage allow you to eaisly take picture from gallery, camera or documents without creating lots of boilerplate.
+  
+#How to use it?
+
 ##Essentials
 
 ####Taking straight to camera
@@ -90,6 +98,4 @@ For this reason, if your app uses ```CAMERA``` permission, you should check it *
 ```java 
 EasyImage.openCamera()
 ```
-
-
 
