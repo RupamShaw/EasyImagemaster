@@ -99,3 +99,4 @@ For this reason, if your app uses ```CAMERA``` permission, you should check it *
 EasyImage.openCamera()
 ```
 
+used Enum
